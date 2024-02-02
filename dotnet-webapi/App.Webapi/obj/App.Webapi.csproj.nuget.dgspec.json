@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Caíque Miranda\\dotnet-webapi\\App.Webapi\\App.Webapi.csproj": {}
+    "D:\\GIT-repository\\github-webapp-csharp\\webapp-csharp\\dotnet-webapi\\App.webapi\\App.Webapi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Caíque Miranda\\dotnet-webapi\\App.Webapi\\App.Webapi.csproj": {
+    "D:\\GIT-repository\\github-webapp-csharp\\webapp-csharp\\dotnet-webapi\\App.webapi\\App.Webapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Caíque Miranda\\dotnet-webapi\\App.Webapi\\App.Webapi.csproj",
+        "projectUniqueName": "D:\\GIT-repository\\github-webapp-csharp\\webapp-csharp\\dotnet-webapi\\App.webapi\\App.Webapi.csproj",
         "projectName": "App.Webapi",
-        "projectPath": "C:\\Users\\Caíque Miranda\\dotnet-webapi\\App.Webapi\\App.Webapi.csproj",
+        "projectPath": "D:\\GIT-repository\\github-webapp-csharp\\webapp-csharp\\dotnet-webapi\\App.webapi\\App.Webapi.csproj",
         "packagesPath": "C:\\Users\\Caíque Miranda\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Caíque Miranda\\dotnet-webapi\\App.Webapi\\obj\\",
+        "outputPath": "D:\\GIT-repository\\github-webapp-csharp\\webapp-csharp\\dotnet-webapi\\App.webapi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Caíque Miranda\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -31,3 +31,37 @@ C:\Users\Caíque Miranda\dotnet-webapi\App.Webapi\obj\Debug\net8.0\refint\App.We
 C:\Users\Caíque Miranda\dotnet-webapi\App.Webapi\obj\Debug\net8.0\App.Webapi.pdb
 C:\Users\Caíque Miranda\dotnet-webapi\App.Webapi\obj\Debug\net8.0\App.Webapi.genruntimeconfig.cache
 C:\Users\Caíque Miranda\dotnet-webapi\App.Webapi\obj\Debug\net8.0\ref\App.Webapi.dll
+D:\GIT-repository\github-webapp-csharp\webapp-csharp\dotnet-webapi\App.webapi\bin\Debug\net8.0\appsettings.Development.json
+D:\GIT-repository\github-webapp-csharp\webapp-csharp\dotnet-webapi\App.webapi\bin\Debug\net8.0\appsettings.json
+D:\GIT-repository\github-webapp-csharp\webapp-csharp\dotnet-webapi\App.webapi\bin\Debug\net8.0\App.Webapi.exe
+D:\GIT-repository\github-webapp-csharp\webapp-csharp\dotnet-webapi\App.webapi\bin\Debug\net8.0\App.Webapi.deps.json
+D:\GIT-repository\github-webapp-csharp\webapp-csharp\dotnet-webapi\App.webapi\bin\Debug\net8.0\App.Webapi.runtimeconfig.json
+D:\GIT-repository\github-webapp-csharp\webapp-csharp\dotnet-webapi\App.webapi\bin\Debug\net8.0\App.Webapi.dll
+D:\GIT-repository\github-webapp-csharp\webapp-csharp\dotnet-webapi\App.webapi\bin\Debug\net8.0\App.Webapi.pdb
+D:\GIT-repository\github-webapp-csharp\webapp-csharp\dotnet-webapi\App.webapi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\GIT-repository\github-webapp-csharp\webapp-csharp\dotnet-webapi\App.webapi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\GIT-repository\github-webapp-csharp\webapp-csharp\dotnet-webapi\App.webapi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\GIT-repository\github-webapp-csharp\webapp-csharp\dotnet-webapi\App.webapi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\GIT-repository\github-webapp-csharp\webapp-csharp\dotnet-webapi\App.webapi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\GIT-repository\github-webapp-csharp\webapp-csharp\dotnet-webapi\App.webapi\obj\Debug\net8.0\App.Webapi.csproj.AssemblyReference.cache
+D:\GIT-repository\github-webapp-csharp\webapp-csharp\dotnet-webapi\App.webapi\obj\Debug\net8.0\App.Webapi.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT-repository\github-webapp-csharp\webapp-csharp\dotnet-webapi\App.webapi\obj\Debug\net8.0\App.Webapi.AssemblyInfoInputs.cache
+D:\GIT-repository\github-webapp-csharp\webapp-csharp\dotnet-webapi\App.webapi\obj\Debug\net8.0\App.Webapi.AssemblyInfo.cs
+D:\GIT-repository\github-webapp-csharp\webapp-csharp\dotnet-webapi\App.webapi\obj\Debug\net8.0\App.Webapi.csproj.CoreCompileInputs.cache
+D:\GIT-repository\github-webapp-csharp\webapp-csharp\dotnet-webapi\App.webapi\obj\Debug\net8.0\App.Webapi.MvcApplicationPartsAssemblyInfo.cs
+D:\GIT-repository\github-webapp-csharp\webapp-csharp\dotnet-webapi\App.webapi\obj\Debug\net8.0\App.Webapi.MvcApplicationPartsAssemblyInfo.cache
+D:\GIT-repository\github-webapp-csharp\webapp-csharp\dotnet-webapi\App.webapi\obj\Debug\net8.0\App.Webapi.sourcelink.json
+D:\GIT-repository\github-webapp-csharp\webapp-csharp\dotnet-webapi\App.webapi\obj\Debug\net8.0\staticwebassets.build.json
+D:\GIT-repository\github-webapp-csharp\webapp-csharp\dotnet-webapi\App.webapi\obj\Debug\net8.0\staticwebassets.development.json
+D:\GIT-repository\github-webapp-csharp\webapp-csharp\dotnet-webapi\App.webapi\obj\Debug\net8.0\staticwebassets\msbuild.App.Webapi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\GIT-repository\github-webapp-csharp\webapp-csharp\dotnet-webapi\App.webapi\obj\Debug\net8.0\staticwebassets\msbuild.build.App.Webapi.props
+D:\GIT-repository\github-webapp-csharp\webapp-csharp\dotnet-webapi\App.webapi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.App.Webapi.props
+D:\GIT-repository\github-webapp-csharp\webapp-csharp\dotnet-webapi\App.webapi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.App.Webapi.props
+D:\GIT-repository\github-webapp-csharp\webapp-csharp\dotnet-webapi\App.webapi\obj\Debug\net8.0\staticwebassets.pack.json
+D:\GIT-repository\github-webapp-csharp\webapp-csharp\dotnet-webapi\App.webapi\obj\Debug\net8.0\scopedcss\bundle\App.Webapi.styles.css
+D:\GIT-repository\github-webapp-csharp\webapp-csharp\dotnet-webapi\App.webapi\obj\Debug\net8.0\App.Webapi.csproj.CopyComplete
+D:\GIT-repository\github-webapp-csharp\webapp-csharp\dotnet-webapi\App.webapi\obj\Debug\net8.0\App.Webapi.dll
+D:\GIT-repository\github-webapp-csharp\webapp-csharp\dotnet-webapi\App.webapi\obj\Debug\net8.0\refint\App.Webapi.dll
+D:\GIT-repository\github-webapp-csharp\webapp-csharp\dotnet-webapi\App.webapi\obj\Debug\net8.0\App.Webapi.pdb
+D:\GIT-repository\github-webapp-csharp\webapp-csharp\dotnet-webapi\App.webapi\obj\Debug\net8.0\App.Webapi.genruntimeconfig.cache
+D:\GIT-repository\github-webapp-csharp\webapp-csharp\dotnet-webapi\App.webapi\obj\Debug\net8.0\ref\App.Webapi.dll
